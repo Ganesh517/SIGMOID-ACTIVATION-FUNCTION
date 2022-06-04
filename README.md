@@ -36,8 +36,8 @@
 ```
 /*
 Program to implement the sigmoid activation function in a feed forward ANN.
-Developed by: Eluru Ganesh
-RegisterNumber:  212220230016
+Developed by: ELURU GANESH
+RegisterNumber:  212220230057
 */
 ```
 ```python
@@ -92,8 +92,14 @@ if __name__=="__main__":
 ```
 
 ## Output:
-![Screenshot_640](https://github.com/Ganesh517/SIGMOID-ACTIVATION-FUNCTION/blob/main/np5.png)
+![Capture8](https://user-images.githubusercontent.com/75234588/169307589-4aae089e-9fd6-431d-af59-50d85ad867bf.PNG)
 
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## Result:
   Thus created a perception to employ the Sigmoid activation function. This neuron was successfully trained to predict the correct output value, when provided with a new set of input data.
